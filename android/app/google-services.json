@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706868396369",
+    "project_id": "apple-e51cc",
+    "storage_bucket": "apple-e51cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706868396369:android:5af49ea8cf48a8daa09370",
+        "android_client_info": {
+          "package_name": "com.example.aple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBZBF1FIrmzGyy1QUTPUXZX6Ny8ZpPKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
